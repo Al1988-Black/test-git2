@@ -7,4 +7,19 @@
 7. git branch просмотр веткипше
 8. git reset (file) или git reset . удаление файлов или файла из stage
 9. git diff или git diff (file) просмотр изменений в файле или файлах
-10. git reset --hard убереть все изменения которые мы проделали
+10. git reset --hard убереть
+11. файл .gitignore в нем мы указываем файлы которые не отправляются на репозиторий и не отслеживабтся git
+
+ветки
+
+master
+
+develop
+
+feature/main-page
+
+feature/about-company
+
+git branch name например git branch develop сoplfybt ветки develop
+
+git checkout develop переключение на ветку develop
