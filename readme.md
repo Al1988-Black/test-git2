@@ -23,3 +23,27 @@ feature/about-company
 git branch name например git branch develop сoplfybt ветки develop
 
 git checkout develop переключение на ветку develop
+
+12. git pull origin master добавление поcле Pull request c удаленного репозитория на локальный компьютер
+
+13. git branch - команда просмотра веток
+
+14. git branch develop/main-page -создание новой ветки 
+
+15. git checkout develop/main-page переключаемся на ветку
+
+16. Изменяем один из файлов
+
+17. git add . добавляем изменненые файлы в stage
+
+18. git commit -m "develop/main-page" -создаем commit
+
+19. git push origin feature/main-page - отправляем на github
+
+20. git checkout master - переключаемся на ветку master
+
+21. git merge feture/main-page - объединяем master c feature/main-page
+
+22. git push origin master отправляем изменения на github
+
+23. git branch -d feature/main-page - удаляем ветку feature/main-page
